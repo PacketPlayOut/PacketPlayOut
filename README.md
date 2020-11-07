@@ -1,6 +1,5 @@
 ### Hi there, I'm PacketPlayOut 👋
 
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 ### Languages:
@@ -21,10 +20,11 @@
 
 <br />
 <br />
-<a href="https://github.com/xVoiceSyntax/PacketPlayOut">
+
+<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PacketPlayOut&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical" />
 </a>
-<a href="https://github.com/PacketPlayOut/PacketPlayOut">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PacketPlayOut&show_icons=true&theme=radical&line_height=27" alt="PacketPlayOut" />
+<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27" alt="PacketPlayOut" />
 </a>
