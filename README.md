@@ -21,10 +21,10 @@
 <br />
 <br />
 
-<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
+<a href="https://github.com/PacketPlayOut/PacketPlayOut">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xVoiceSyntax&theme=radical" />
 </a>
-<a href="https://github.com/xVoiceSyntax/xVoiceSyntax">
+<a href="https://github.com/PacketPlayOut/PacketPlayOut">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xVoiceSyntax&show_icons=true&theme=radical&line_height=27" alt="PacketPlayOut" />
 </a>
